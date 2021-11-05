@@ -1,6 +1,8 @@
 # complexity-of-algorithms-notes
 Notes for the complexity of algorithms
 
+![Banner](README_banner.jpg)
+
 ### Contents
 
 * Asymptotic Notation
@@ -23,3 +25,6 @@ Notes for the complexity of algorithms
 `Complexity of Algorithms Notes.pdf` Notes in PDF format
 
 `Complexity of Algorithms Notes Booklet.pdf` Notes in PDF format; rearranged so that it can be printed into a booklet (left-binding, flips on the short edge)
+
+![Booklet](README_booklet.jpg)
+
